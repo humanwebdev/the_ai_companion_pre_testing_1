@@ -5,24 +5,12 @@ Welcome to the **AI Companion App** repository. This space is designed to provid
 
 ---
 
-## 🌟 **About the App**  
-
-Say hello to your **AI Companion**—a virtual friend designed to fit your needs and personality preferences. You decide who they are:  
-- 💖 **Boyfriend**: Charming, supportive, and ready to make your day brighter.  
-- 💕 **Girlfriend**: Caring, attentive, and here to understand you.  
-- 🌟 **Best Friend**: Loyal, funny, and always up for a chat.  
-- 🤩 **Buddy**: Relaxed, cheerful, and ready for fun.  
-
-This app offers meaningful conversations tailored just for you. It’s not just AI—it’s your digital companion that learns, adapts, and grows with you.  
-
----
-
 ## 🛠️ **How to Use the App**  
 
 1. **Download the APK file**:  
    Click the link below to download the latest version of the app.  
 
-   📥 [**Download the AI Companion App**](#)  
+   📥 [**Download the AI Companion App (Demo APK)**](releases/apk/demo/)  
 
 2. **Install the app**:  
    Follow the installation instructions for your device.  
@@ -32,15 +20,6 @@ This app offers meaningful conversations tailored just for you. It’s not just 
 
 4. **Enjoy personalized chats**:  
    Your companion is here 24/7 to chat, support, and brighten your day!  
-
----
-
-## 💡 **Why You'll Love It**  
-
-- 🧡 **Customizable Personalities**: Make your companion truly yours.  
-- 📱 **User-Friendly Interface**: Simple, clean, and easy to navigate.  
-- 🔒 **Privacy Assured**: Your data stays secure and private.  
-- 🎉 **Fun and Engaging**: Conversations that feel real and relatable.  
 
 ---
 
