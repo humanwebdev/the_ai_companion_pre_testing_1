@@ -8,10 +8,7 @@ Welcome to the **AI Companion App** repository. This space is designed to provid
 ## 🛠️ **How to Use the App**  
 
 1. **Download the APK file**:  
-   Click the link below to download the latest version of the app.  
-
-   📥 [**Download the AI Companion App (Demo APK)**](releases/apk/demo/)  
-
+   Download it form Releases
 2. **Install the app**:  
    Follow the installation instructions for your device.  
 
@@ -35,6 +32,6 @@ Stay tuned for exciting updates, including:
 ## 🌈 **Join the Journey**  
 
 We’re excited to bring you this amazing experience. If you enjoy the app or have feedback to share, we’d love to hear from you:  
-📧 Email us at **support@humanwebdev.com**  
+📧 Email us at **humanwebdev@gmail.com**  
 
 Thank you for being part of our AI revolution. Let’s redefine connections, one conversation at a time!  
